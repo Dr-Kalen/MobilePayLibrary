@@ -1,5 +1,3 @@
-### 微信和支付宝支付库的使用说明
-
 当AAR添加成功之后，接下来还需要操作一下：
 
 **支付宝支付**
@@ -96,3 +94,5 @@ repositories{
 dependencies {
     compile (name:'MobilePayLibrary', ext:'aar')
 }
+
+
